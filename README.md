@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fharshitkumar.tk)](https://harshitkumar.tk)
+[![Website](https://img.shields.io/website?label=Harshitkumar.tk&style=for-the-badge&url=https%3A%2F%2Fharshitkumar.tk)](https://harshitkumar.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Developer and a student!!
