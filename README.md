@@ -46,3 +46,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+[website]: https://harshitkumar.tk
+[twitter]: https://twitter.com/Harshit04199217
+[youtube]: https://www.youtube.com/channel/UC12XvCD_kEp8IltG7xdjsXw
+[instagram]: https://www.instagram.com/harshit_kumarofficial/
