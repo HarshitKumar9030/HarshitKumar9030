@@ -10,6 +10,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar.
+- 😆 I love to watch animes.
+- 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
+- 💕 I love to study Science when I am free otherwise I study it daily too.
 
 ### Connect with me:
 
