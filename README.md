@@ -13,6 +13,7 @@
 - 😆 I love to watch animes.
 - 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
 - 💕 I love to study Science when I am free otherwise I study it daily too.
+- 🎶 I love to play Guitar.
 
 ### Connect with me:
 
