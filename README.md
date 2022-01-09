@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 🙏 OK I know js, css, sass , node , react , java blablabla..
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw.
 - 😆 I love to watch animes.
 - 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
 - 💕 I love to study Science when I am free otherwise I study it daily too.
@@ -41,18 +41,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
-
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-< /details>
----
-  
-[website]: https://harshitkumar.tk
+<br />  
+[website]: https://harshitkumar
 [twitter]: https://twitter.com/Harshit04199217
 [youtube]: https://www.youtube.com/channel/UC12XvCD_kEp8IltG7xdjsXw
 [instagram]: https://www.instagram.com/harshit_kumarofficial/
