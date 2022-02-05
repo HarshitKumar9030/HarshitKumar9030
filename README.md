@@ -6,12 +6,13 @@
 ## I'm a Developer and a student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🙏 OK I know js, css, sass , node , react , java blablabla..
+- 🙏 OK I know js, css, sass , node , react , php
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw.
 - 😆 I love to watch animes.
 - 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
+- 🎵 I love to listen music especially Japanese music very much.
 - 💕 I love to study Science when I am free otherwise I study it daily too.
 - 🎶 I love to play Guitar.
 
@@ -42,7 +43,8 @@
 
 <br />
 <br />  
-#That's All!
+# That's All!
+
 
 [website]: https://harshitkumar
 [twitter]: https://twitter.com/Harshit04199217
