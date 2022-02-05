@@ -1,6 +1,5 @@
 ### Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
-[![Website](https://img.shields.io/website?label=harshit-creates.tech&style=for-the-badge&url=https://harshit-creates.tech)](https://ucskmcoders.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshit04199217?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshit04199217&screen_name=Harshit04199217)
 
 ## I'm a Developer and a student!!
