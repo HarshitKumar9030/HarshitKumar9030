@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
-[![Website](https://img.shields.io/website?label=harshit-creates.tech&style=for-the-badge&url=https%3A%2F%harshit-creates.tech)](https://harshit-creates.tech)
+[![Website](https://img.shields.io/website?label=harshit-creates.tech&style=for-the-badge&url=https%3A%2F%harshit-creates.tech)](https://ucskmcoders.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshit04199217?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshit04199217&screen_name=Harshit04199217)
 
 ## I'm a Developer and a student!!
@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I love to draw.
 - 😆 I love to watch animes.
 - 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
+- 👀 Recently I watched a kdrama because one of my freind told me, believe me it is mindblowing. It is "Who are you"
 - 🎵 I love to listen music especially Japanese music very much.
 - 💕 I love to study Science when I am free otherwise I study it daily too.
 - 🎶 I love to play Guitar.
