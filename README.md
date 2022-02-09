@@ -5,7 +5,7 @@
 ## I'm a Developer and a student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🙏 OK I know js, css, sass , node , react , php
+- 🙏 OK so I know Javascript,scss,nextjs,php,vuejs and discordjs 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw.
