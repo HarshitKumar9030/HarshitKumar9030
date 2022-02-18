@@ -2,8 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshit04199217?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshit04199217&screen_name=Harshit04199217)
 
-## Github Info
+## Github Info / Stats
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=nightowl">
+<img height="137px src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&count_private=true&show_icons=true&theme=radical">
 
 ## I'm a Developer and a student!!
 
