@@ -27,6 +27,7 @@
 [<img align="left" alt="Harshit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Harshit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Harshit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Harshit | Replit" widt="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" />][replit]
 
 <br />
 
@@ -48,10 +49,11 @@
 
 <br />
 <br />  
-# That's All!
+### That's All!
 
 
 [website]: https://harshitkumar
 [twitter]: https://twitter.com/Harshit04199217
 [youtube]: https://www.youtube.com/channel/UC12XvCD_kEp8IltG7xdjsXw
 [instagram]: https://www.instagram.com/harshit_kumarofficial/
+[replit]: https://replit.com/@OhHarshit
