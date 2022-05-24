@@ -5,8 +5,7 @@
 ## Github Info / Stats
 <img height="137px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=radical">
 <img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical">
-<img height="187px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
 
 ## I'm a Developer and a student!!
 
