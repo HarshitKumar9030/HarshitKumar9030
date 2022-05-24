@@ -5,7 +5,7 @@
 ## Github Info / Stats
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=nightowl">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical">
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
+<img height="187px" style="float: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
 
 ## I'm a Developer and a student!!
 
