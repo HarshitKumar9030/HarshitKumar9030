@@ -15,8 +15,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw.
 - 😆 I love to watch animes.
-- 👌 My favourites are - Death Note , Pokemon XYZ , Codebreaker , Your lie in April , Demon Slayer and Kaguya-sama
-- 👀 Recently I watched a kdrama because one of my freind told me, believe me it is mindblowing. It is "Who are you"
+- 👌 My favourites are - Death Note , Jujutsu Kaisen , Codebreaker , Your lie in April , Demon Slayer, SpyXFamily, Tokyo Ghoul, One Punch Man, Kaguya-sama, Orange, Kawaii dake ja shikimore san many more
+- 👀 Recently I watched a kdrama because one of my friend told me, believe me it is mindblowing. It is "Who are you"
 - 🎵 I love to listen music especially Japanese music very much.
 - 💕 I love to study Science when I am free otherwise I study it daily too.
 - 🎶 I love to play Guitar.
