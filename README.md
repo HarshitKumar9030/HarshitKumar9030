@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/OhHarshit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OhHarshit&screen_name=OhHarshit)
 
 ## Github Info / Stats
-<img height="137px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=radical">
-<img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical">
+<img height="137px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=radical"><br />
+<img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical"><br />
 <img align="center" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
 
 ## I'm a Developer and a student!!
