@@ -4,18 +4,18 @@
 
 ## Github Info / Stats
 <img height="137px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=radical"><br /><br />
-<img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical"><br />
+<img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical"><br /><br />
 <img align="center" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumar9030&langs_count=8&theme=radical&layout=compact">
 
 ## I'm a Developer and a student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🙏 OK so I know Javascript,scss,nextjs,php,vuejs and discordjs 
+- 🙏 OK so I know Javascript,scss,nextjs,c++,c,vuejs and discordjs 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw.
 - 😆 I love to watch animes.
-- 👌 My favourites are - Death Note , Jujutsu Kaisen , Codebreaker , Your lie in April , Demon Slayer, SpyXFamily, Tokyo Ghoul, One Punch Man, Kaguya-sama, Orange, Kawaii dake ja shikimore san many more
+- 👌 My favourites are - Death Note , Jujutsu Kaisen , Codebreaker , Your lie in April , Demon Slayer, SpyXFamily, Tokyo Ghoul, One Punch Man, Kaguya-sama, Orange, Kawaii dake ja shikimore san and many more
 - 👀 Recently I watched a kdrama because one of my friend told me, believe me it is mindblowing. It is "Who are you"
 - 🎵 I love to listen music especially Japanese music very much.
 - 💕 I love to study Science when I am free otherwise I study it daily too.
