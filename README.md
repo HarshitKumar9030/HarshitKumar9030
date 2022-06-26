@@ -51,7 +51,7 @@
 <br />  
 
 
-[website]: https://harshitkumar
+[website]: https://www.harshitkumar.tech
 [twitter]: https://twitter.com/Harshit04199217
 [youtube]: https://www.youtube.com/channel/UC12XvCD_kEp8IltG7xdjsXw
 [instagram]: https://www.instagram.com/harshit_kumarofficial/
