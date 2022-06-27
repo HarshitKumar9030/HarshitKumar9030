@@ -1,8 +1,10 @@
 <img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/main/github.png">
 
-### Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
+## Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/OhHarshit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OhHarshit&screen_name=OhHarshit)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/akshatrasogi)](https://twitter.com/akshatrasogi)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
 
 <img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/main/hk.png"/>
 
