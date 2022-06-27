@@ -1,3 +1,5 @@
+<img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/main/github.png">
+
 ### Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OhHarshit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OhHarshit&screen_name=OhHarshit)
