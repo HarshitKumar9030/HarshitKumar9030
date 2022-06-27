@@ -7,7 +7,7 @@
 
 ## See What I am listening to
 
-[![Spotify]([https://express-mongo.ohharshit.repl.co/now-playing])]
+[![Spotify]([https://spotify-main.vercel.app/api/spotify])]
 
 
 
