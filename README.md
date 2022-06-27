@@ -2,11 +2,11 @@
 
 ## Hi there, I'm Harshit - aka [Harshit Kumar][website] 👋
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/akshatrasogi)](https://twitter.com/akshatrasogi)
-[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/harshit_kumarofficial/)](https://instagram.com/harshit_kumarofficial)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/ohHarshit)](https://twitter.com/OhHarshit)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://www.harshitkumar.tech)](https://www.harshitkumar.tech)
 
-<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/main/hk.png"/>
+<img align="right" width="200" height="200" alt="Harshit" src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/main/hk.png"/>
 
 <br/>
 
