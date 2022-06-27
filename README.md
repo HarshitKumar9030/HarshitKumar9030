@@ -7,7 +7,7 @@
 
 ## See What I am listening to
 
-[![Spotify]([https://spotify-main.vercel.app/api/spotify]])
+[![Spotify]([https://spotify-main.vercel.app/api/spotify]])(https://open.spotify.com/user/31ozub2h5ir5w2c6wedlbyo7ectm)
 
 
 
