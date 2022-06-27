@@ -2,6 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OhHarshit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OhHarshit&screen_name=OhHarshit)
 
+
+## See What I am listening to
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://spotify-harshit.azurewebsites.com)
+
+
 ## Github Info / Stats
 <img height="137px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&hide_border=true&theme=radical"><br /><br />
 <img height="157px" align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkumar9030&show_icons=true&theme=radical"><br /><br />
