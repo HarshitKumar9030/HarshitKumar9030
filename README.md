@@ -12,7 +12,7 @@
 
 ### Now Playing 🎧
 
-[Spotify](https://spotify-main.vercel.app/api/spotify)
+![Spotify](https://spotify-main.vercel.app/api/spotify)
 
 
 
