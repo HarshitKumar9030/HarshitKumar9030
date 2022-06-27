@@ -4,8 +4,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/OhHarshit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%OhHarshit&screen_name=OhHarshit)
 
+<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
 
-## See What I am listening to
+<br/>
+
+### Now Playing 🎧
 
 [![Spotify](https://spotify-main.vercel.app/api/spotify)](https://open.spotify.com/user/31ozub2h5ir5w2c6wedlbyo7ectm)
 
