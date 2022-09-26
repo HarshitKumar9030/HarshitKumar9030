@@ -2,7 +2,7 @@
 
 ## Hi there I am [Harshit Kumar 🖐️][website]
 
-<img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/master/images/hobbies.png">
+<img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/master/hobbies.png">
 
 ## Github Stats
 <br />
