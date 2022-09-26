@@ -2,7 +2,7 @@
 
 ## Hi there I am [Harshit Kumar 🖐️][website]
 
-### Stats
+## Stats
 <br />
 
   <div align="center">
