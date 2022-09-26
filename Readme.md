@@ -2,11 +2,7 @@
 
 ## Hi there I am [Harshit Kumar 🖐️][website]
 
-- 🎸 I love to play Guitar as a hobby 
-- 📖 I love to read currently reading - "The World as I see It"
-- 🎶 I love to listen music, Hip-Hop and J-POP/ROCK 
-- 🔭 I love Quantum Mechanics
-- 💖 I love Japanese Cartoons (Animes), Some of my favs are "Tokyo Ghoul, Jujutsu Kaisen, Shinzo wo Sasageyo, Noragami, Waiting for ⛓️ Chainsaw Man"
+<img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/master/images/hobbies.png">
 
 ## Github Stats
 <br />
