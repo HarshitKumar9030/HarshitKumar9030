@@ -18,7 +18,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Harshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshitkumar9030&custom_title=Harshit%20Kumar's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <a href="#"><img alt="Harshit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumar9030&custom_title=Harshit%20Kumar's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div>
   <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshitkumar9030&column=8&theme=onedark" />
