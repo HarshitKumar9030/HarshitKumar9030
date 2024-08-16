@@ -30,7 +30,7 @@
 <div align="center">
   <a href="#"><img alt="Harshit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&theme=react&hide_border=true&background=0D1117&stroke=5ce1e6" height="200"/></a>
   <br/>
-  <a href="#"><img alt="Harshit's Most Productive Days" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitkumar9030&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+  <a href="#"><img alt="Harshit's Most Productive Days" src="https://github-readme-stats.vercel.app/api/wakatime?username=leoncyriac&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
 </div>
 
 <br/>
