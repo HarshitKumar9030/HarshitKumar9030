@@ -25,9 +25,24 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harshitkumar9030&column=8&theme=onedark" />
 </div>
 
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  <a href="#"><img alt="Harshit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar9030&theme=react&hide_border=true&background=0D1117&stroke=5ce1e6" height="200"/></a>
+  <br/>
+  <a href="#"><img alt="Harshit's Most Productive Days" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitkumar9030&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+</div>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
+## 📈 Overall GitHub Metrics
+- **Total Contributions:** ![Total Contributions](https://img.shields.io/badge/dynamic/json?color=5ce1e6&label=Total%20Contributions&query=%24.total_contributions&url=https://api.github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitkumar9030&theme=react)
+- **Profile Visitors:** ![Visitors](https://komarev.com/ghpvc/?username=harshitkumar9030&color=0e75b6&style=flat)
+
+<br/>
+
 [website]: https://www.leoncyriac.tech
+
 
