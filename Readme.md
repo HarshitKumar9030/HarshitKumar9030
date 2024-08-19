@@ -38,9 +38,14 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 
 ## 📈 Overall GitHub Metrics
-- **Total Contributions:** ![Total Contributions](https://img.shields.io/badge/dynamic/json?color=5ce1e6&label=Total%20Contributions&query=%24.total_contributions&url=https://api.github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitkumar9030&theme=react)
-- **Profile Visitors:** ![Visitors](https://komarev.com/ghpvc/?username=harshitkumar9030&color=0e75b6&style=flat)
-
+<p align="center">
+  <a href="https://github.com/harshitkumar9030">
+    <img src="https://img.shields.io/badge/Total%20Contributions-5ce1e6?style=for-the-badge&logo=github&labelColor=000000&color=5ce1e6">
+  </a>
+  <a href="https://github.com/harshitkumar9030">
+    <img src="https://komarev.com/ghpvc/?username=harshitkumar9030&color=0e75b6&style=for-the-badge&label=Profile%20Visitors">
+  </a>
+</p>
 <br/>
 
 [website]: https://www.leoncyriac.tech
