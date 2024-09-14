@@ -48,6 +48,6 @@
 </p>
 <br/>
 
-[website]: https://www.leoncyriac.me
+[website]: https://leoncyriac.me
 
 
