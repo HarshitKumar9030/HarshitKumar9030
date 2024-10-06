@@ -1,6 +1,6 @@
 <img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/master/images/github.png" width="100%" />
 
-# Hi there, I'm [Harshit / Leon 🖐️]
+# Hi there, I'm [Harshit 🖐️]
 
 <img src="https://github.com/HarshitKumar9030/HarshitKumar9030/blob/master/hobbiess.png" width="100%" />
 
