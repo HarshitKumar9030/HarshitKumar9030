@@ -1,0 +1,17 @@
+name: Add Word to Wordcloud
+description: "Submit a new word to be added to the wordcloud"
+title: "wordcloud: [your word here]"
+labels: ["wordcloud"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for adding a word to my wordcloud! Just put your word in the title above, replacing `[your word here]` (single words are best!).
+  - type: input
+    id: word
+    attributes:
+      label: Word
+      description: What word would you like to add?
+      placeholder: e.g. Awesome
+    validations:
+      required: true

@@ -1,0 +1,62 @@
+name: Update Wordcloud
+
+on:
+  issues:
+    types: [opened, edited]
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Run daily
+
+jobs:
+  generate-wordcloud:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install wordcloud matplotlib requests
+
+      - name: Generate Wordcloud
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python generate_wordcloud.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/wordcloud.png wordcloud.txt || true
+          git commit -m "Auto-generated Wordcloud" || true
+          git push
+
+      - name: Close Issue
+        if: github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'wordcloud')
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Tada! Your word has been added to the wordcloud. Check out the updated image on my profile README!'
+            })
+            github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
+            })

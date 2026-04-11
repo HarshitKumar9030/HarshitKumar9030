@@ -57,6 +57,16 @@
 
 <br/>
 
+## ☁️ Community Word Cloud
+<div align="center">
+  <img src="images/wordcloud.png" alt="Word Cloud" width="100%" />
+  
+  **People like YOU are making this wordcloud awesome!**  
+  [**➕ Click here to add your word!**](https://github.com/harshitkumar9030/HarshitKumar9030/issues/new?template=add_word.yml)
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 </div>s
