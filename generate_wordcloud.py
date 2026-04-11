@@ -169,7 +169,10 @@ def get_words_from_issues():
 def get_local_words():
     if os.path.exists('wordcloud.txt'):
         with open('wordcloud.txt', 'r', encoding='utf-8') as f:
-            return f.read().split()
+            words = []
+            for line in f:
+                words.extend(normalize_words(line.strip()))
+            return unique_words(words)
     return DEFAULT_WORDS
 
 def main():
@@ -180,9 +183,9 @@ def main():
 
     # Save processed words locally
     with open('wordcloud.txt', 'w', encoding='utf-8') as f:
-        f.write("\n".join(words))
+        f.write("\n".join(words) + "\n")
 
-    text = " ".join(words)
+    frequencies = {word: 1 for word in words}
     font_path = ensure_poppins_font()
     
     # Tight layout with bold Poppins and white background.
@@ -202,7 +205,7 @@ def main():
         random_state=42,
         prefer_horizontal=0.95,
         scale=2,
-    ).generate(text)
+    ).generate_from_frequencies(frequencies)
     
     os.makedirs('images', exist_ok=True)
     wordcloud.to_file('images/wordcloud.png')
