@@ -2,7 +2,7 @@ name: Update Wordcloud
 
 on:
   issues:
-    types: [opened]
+    types: [opened, edited, reopened]
   push:
     branches:
       - main
@@ -11,6 +11,7 @@ on:
 
 jobs:
   generate-wordcloud:
+    if: github.event_name != 'issues' || contains(github.event.issue.labels.*.name, 'wordcloud') || contains(github.event.issue.title, 'wordcloud')
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -27,7 +28,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install wordcloud matplotlib requests
+          pip install wordcloud requests
 
       - name: Generate Wordcloud
         env:
