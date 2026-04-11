@@ -2,7 +2,7 @@ name: Update Wordcloud
 
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
   push:
     branches:
       - main
@@ -42,21 +42,3 @@ jobs:
           git add images/wordcloud.png wordcloud.txt || true
           git commit -m "Auto-generated Wordcloud" || true
           git push
-
-      - name: Close Issue
-        if: github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'wordcloud')
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: 'Tada! Your word has been added to the wordcloud. Check out the updated image on my profile README!'
-            })
-            github.rest.issues.update({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'closed'
-            })
