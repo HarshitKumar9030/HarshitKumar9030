@@ -34,6 +34,18 @@ def normalize_words(raw_text):
     return cleaned
 
 
+def unique_words(words):
+    seen = set()
+    deduped = []
+    for word in words:
+        key = word.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(word)
+    return deduped
+
+
 def extract_words_from_issue(issue):
     title = issue.get("title") or ""
     body = issue.get("body") or ""
@@ -152,7 +164,7 @@ def get_words_from_issues():
             if github_token and issue_number:
                 close_issue_with_comment(repo, issue_number, headers)
 
-    return list(filter(None, words))
+    return unique_words(list(filter(None, words)))
 
 def get_local_words():
     if os.path.exists('wordcloud.txt'):
@@ -164,6 +176,7 @@ def main():
     words = get_words_from_issues()
     if not words:
         words = DEFAULT_WORDS
+    words = unique_words(words)
 
     # Save processed words locally
     with open('wordcloud.txt', 'w', encoding='utf-8') as f:
@@ -183,7 +196,7 @@ def main():
         max_font_size=220,
         font_path=font_path,
         margin=1,
-        repeat=True,
+        repeat=False,
         collocations=False,
         relative_scaling=0.15,
         random_state=42,
