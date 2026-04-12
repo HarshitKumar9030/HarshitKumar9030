@@ -25,7 +25,7 @@
     <img src="https://spotify-status-alpha.vercel.app/api/github" alt="Harshit's Spotify Now Playing" width="400" />
   </a>
   <a href="https://spotify-status-alpha.vercel.app/">
-    <img src="https://spotify-status-alpha.vercel.app/api/github/lyrics" alt="Harshit's Spotify Lyrics" width="344" />
+    <img src="https://spotify-status-alpha.vercel.app/api/github/lyrics" alt="Harshit's Spotify Lyrics" width="343.5" />
   </a>
 </div>
 
