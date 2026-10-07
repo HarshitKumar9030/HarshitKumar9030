@@ -34,7 +34,7 @@
 ## 📈 Activity & Metrics
 <div align="center">
   <a href="https://github.com/harshitkumar9030">
-    [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HarshitKumar9030&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=HarshitKumar9030&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+    <img alt="Harshit's Streak" src="https://github-stats-extended.vercel.app/api?username=HarshitKumar9030&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" height="180" />
   </a>
 </div>
 
