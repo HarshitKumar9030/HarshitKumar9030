@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/harshitkumar9030">
-    <img src="https://komarev.com/ghpvc/?username=harshitkumar9030&style=for-the-badge&color=5ce1e6&label=Profile%20Visitors" alt="Profile Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=harshitkumar9030&style=for-the-badge&label=Profile%20Visitors&abbreviated=true" alt="Profile Visitors" />
   </a>
   <img src="https://img.shields.io/badge/Total%20Contributions-5ce1e6?style=for-the-badge&logo=github&labelColor=0D1117&color=5ce1e6" alt="Contributions Badge" />
 </p>
