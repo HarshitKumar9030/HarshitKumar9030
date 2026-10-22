@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/harshitkumar9030">
-    ![](https://komarev.com/ghpvc/?username=harshitkumar9030&style=flat&label=Profile+Visitors&abbreviated=true)ß
+    ![](https://komarev.com/ghpvc/?username=harshitkumar9030&style=flat&label=Profile+Visitors&abbreviated=true)
   </a>
   <img src="https://img.shields.io/badge/Total%20Contributions-5ce1e6?style=for-the-badge&logo=github&labelColor=0D1117&color=5ce1e6" alt="Contributions Badge" />
 </p>
